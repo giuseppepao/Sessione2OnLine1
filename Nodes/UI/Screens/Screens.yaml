@@ -7783,3 +7783,7 @@ Children:
       DataType: Size
       ModellingRule: Optional
       Value: 28.0
+- Name: GitHub
+  Id: g=db01e588c36b3b61480d710937876dd9
+  Supertype: Screen
+  ReferenceType: HasComponent
