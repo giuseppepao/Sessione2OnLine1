@@ -1,0 +1,67 @@
+Project:
+ Name: Sessione2OnLine1_Design
+ ProjectNamespaceIndex: 15
+ Description: ''
+ Company: ''
+ Copyright: ''
+ FormatVersion: 1
+ ProductVersion: 1.3
+ CoreVersion: 3.0
+ Dependencies:
+  2:
+   Uri: Sessione2OnLine1
+   RelativePath: Sessione2OnLine1.optix
+  3:
+   Uri: 'faee73c18a279e3e0179e9081b260401#Temporary'
+   ServerUri: faee73c18a279e3e0179e9081b260401
+  4:
+   Uri: 'faee73c18a279e3e0179e9081b260401#http://www.unifiedautomation.com/DemoServer/'
+   ServerUri: faee73c18a279e3e0179e9081b260401
+  5:
+   Uri: 'faee73c18a279e3e0179e9081b260401#urn:CN8SSL3:UnifiedAutomation:UaDemoServerAnsiC'
+   ServerUri: faee73c18a279e3e0179e9081b260401
+  6:
+   Uri: 'faee73c18a279e3e0179e9081b260401#urn:CN8SSL3:FactoryTalkOptixHMI:FTOptixApplication'
+   ServerUri: faee73c18a279e3e0179e9081b260401
+  7:
+   Uri: 'faee73c18a279e3e0179e9081b260401#Sessione2OnLine'
+   ServerUri: faee73c18a279e3e0179e9081b260401
+  8:
+   Uri: 'faee73c18a279e3e0179e9081b260401#http://PLCopen.org/OpcUa/IEC61131-3/'
+   ServerUri: faee73c18a279e3e0179e9081b260401
+  9:
+   Uri: 'faee73c18a279e3e0179e9081b260401#http://opcfoundation.org/UA/DI/'
+   ServerUri: faee73c18a279e3e0179e9081b260401
+  10:
+   Uri: 'urn:FTOptix:CoreBase'
+   Module: FTOptix.CoreBase
+   Version: 3.1
+  11:
+   Uri: 'urn:FTOptix:CoreBase:Net'
+   Module: FTOptix.CoreBase.Net
+   Version: 1.1
+  12:
+   Uri: 'urn:FTOptix:TagImporter'
+   Module: FTOptix.TagImporter
+   Version: 1.0
+  13:
+   Uri: 'urn:FTOptix:OPCUAImporter'
+   Module: FTOptix.OPCUAImporter
+   Version: 1.0
+  14:
+   Uri: 'urn:FTOptix:NetLogic'
+   Module: FTOptix.NetLogic
+   Version: 1.0
+ Statistics:
+  TotalNodeCount: 4
+  Objects: 1
+  ObjectTypes: 0
+  Variables: 3
+  VariableTypes: 0
+  DataTypes: 0
+  Methods: 0
+  References: 0
+  ReferenceTypes: 0
+  Files: 1
+ Nodes:
+ - File: 'DesignTimeNodes/OPC-UA/OPCUAClient1/OPCUATagImporter.yaml'

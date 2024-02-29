@@ -1,0 +1,54 @@
+Name: VarCreateDaCodice
+Id: g=78525c36fa998d7277782a36355512b2
+Type: FolderType
+Children:
+- Name: MiaVar0
+  Id: g=caa984d15feb47ee9ce56372be4808d6
+  Type: BaseDataVariableType
+  DataType: Int16
+  Value: 0
+- Name: MiaVar1
+  Id: g=76538bfde1594ced8dbd6029f1e03689
+  Type: BaseDataVariableType
+  DataType: Int16
+  Value: 0
+- Name: MiaVar2
+  Id: g=7d7314b291ca489d947900f2ba4f2e49
+  Type: BaseDataVariableType
+  DataType: Int16
+  Value: 0
+- Name: MiaVar3
+  Id: g=bf0318f14a7c4d19afad82b80be2451f
+  Type: BaseDataVariableType
+  DataType: Int16
+  Value: 0
+- Name: MiaVar4
+  Id: g=43cc321726644caba51594fc2f6b2e97
+  Type: BaseDataVariableType
+  DataType: Int16
+  Value: 0
+- Name: MiaVar5
+  Id: g=f6a5731adcda424c95c5cf89892403b2
+  Type: BaseDataVariableType
+  DataType: Int16
+  Value: 0
+- Name: MiaVar6
+  Id: g=e790e138ae09417db580384c9dcd5ba9
+  Type: BaseDataVariableType
+  DataType: Int16
+  Value: 0
+- Name: MiaVar7
+  Id: g=4c68cd9c4c6f4d88afeff1260f6afa3c
+  Type: BaseDataVariableType
+  DataType: Int16
+  Value: 0
+- Name: MiaVar8
+  Id: g=0f16565fdd3a4f2da20980cc0b4ef343
+  Type: BaseDataVariableType
+  DataType: Int16
+  Value: 0
+- Name: MiaVar9
+  Id: g=7352cfa0d1b743afa2c4c27332d443fd
+  Type: BaseDataVariableType
+  DataType: Int16
+  Value: 0

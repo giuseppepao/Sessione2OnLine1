@@ -1,0 +1,157 @@
+Name: Recipes
+Type: RecipesCategoryFolder
+Children:
+- Name: RecipeSchema1
+  Id: g=3f31e7ea8804f818aed28e85ac1f4e92
+  Type: RecipeSchema
+  Children:
+  - Name: Root
+    Type: BaseObjectType
+    Children:
+    - Name: ModbusTag1
+      Type: BaseDataVariableType
+      DataType: Int32
+      Value: 0
+    - Name: ModbusTag2
+      Type: BaseDataVariableType
+      DataType: Int32
+      Value: 0
+  - Class: Reference
+    Target: ns=30;i=27
+    Direction: Forward
+  - Class: Reference
+    Target: ns=30;i=33
+    Direction: Forward
+  - Class: Reference
+    Target: ns=30;i=31
+    Direction: Forward
+  - Class: Reference
+    Target: ns=30;i=44
+    Direction: Forward
+  - Class: Reference
+    Target: ns=30;i=35
+    Direction: Forward
+  - Class: Reference
+    Target: ns=30;i=37
+    Direction: Forward
+  - Class: Reference
+    Target: ns=30;i=76
+    Direction: Forward
+  - Class: Reference
+    Target: ns=30;i=53
+    Direction: Forward
+  - Class: Reference
+    Target: ns=30;i=62
+    Direction: Forward
+  - Class: Reference
+    Target: ns=30;i=55
+    Direction: Forward
+  - Class: Reference
+    Target: ns=30;i=58
+    Direction: Forward
+  - Class: Reference
+    Target: ns=30;i=60
+    Direction: Forward
+  - Name: Store
+    Type: NodePointer
+    DataType: NodeId
+    Value: "/Objects/Sessione2OnLine1/DataStores/EmbeddedDatabaseRicette2"
+    Children:
+    - Name: Kind
+      Type: PropertyType
+      DataType: NodeId
+      Value: "/Types/ObjectTypes/BaseObjectType/Store"
+  - Name: TargetNode
+    Type: NodePointer
+    DataType: NodeId
+    Value: "/Objects/Sessione2OnLine1/CommDrivers/ModbusDriver1/ModbusStation1/Tags/RicettaPLC"
+    Children:
+    - Name: Kind
+      Type: PropertyType
+      DataType: NodeId
+      Value: {"IdType":0,"Id":0,"Namespace":-1}
+  - Name: EditModel
+    Id: g=623be08c26ed7c87ec087d07908ac9c2
+    Type: BaseObjectType
+    Children:
+    - Name: ModbusTag1
+      Type: BaseDataVariableType
+      DataType: Int32
+      Value: 0
+    - Name: ModbusTag2
+      Type: BaseDataVariableType
+      DataType: Int32
+      Value: 0
+- Name: RecipeSchema2
+  Id: g=9ebca48484d20db8cbb78ed227bd80c1
+  Type: RecipeSchema
+  Children:
+  - Name: Root
+    Type: BaseObjectType
+    Children:
+    - Name: ModbusTag3
+      Type: BaseDataVariableType
+      DataType: Int32
+      Value: 0
+  - Class: Reference
+    Target: ns=30;i=27
+    Direction: Forward
+  - Class: Reference
+    Target: ns=30;i=33
+    Direction: Forward
+  - Class: Reference
+    Target: ns=30;i=31
+    Direction: Forward
+  - Class: Reference
+    Target: ns=30;i=44
+    Direction: Forward
+  - Class: Reference
+    Target: ns=30;i=35
+    Direction: Forward
+  - Class: Reference
+    Target: ns=30;i=37
+    Direction: Forward
+  - Class: Reference
+    Target: ns=30;i=76
+    Direction: Forward
+  - Class: Reference
+    Target: ns=30;i=53
+    Direction: Forward
+  - Class: Reference
+    Target: ns=30;i=62
+    Direction: Forward
+  - Class: Reference
+    Target: ns=30;i=55
+    Direction: Forward
+  - Class: Reference
+    Target: ns=30;i=58
+    Direction: Forward
+  - Class: Reference
+    Target: ns=30;i=60
+    Direction: Forward
+  - Name: Store
+    Type: NodePointer
+    DataType: NodeId
+    Value: "/Objects/Sessione2OnLine1/DataStores/EmbeddedDatabaseRicette2"
+    Children:
+    - Name: Kind
+      Type: PropertyType
+      DataType: NodeId
+      Value: "/Types/ObjectTypes/BaseObjectType/Store"
+  - Name: TargetNode
+    Type: NodePointer
+    DataType: NodeId
+    Value: "/Objects/Sessione2OnLine1/CommDrivers/ModbusDriver1/ModbusStation1/Tags/RicettaPLC"
+    Children:
+    - Name: Kind
+      Type: PropertyType
+      DataType: NodeId
+      Value: {"IdType":0,"Id":0,"Namespace":-1}
+  - Name: EditModel
+    Id: g=1eaa1f71dd629e43dc95565a8eccbc33
+    Type: BaseObjectType
+    Children:
+    - Name: ModbusTag3
+      Type: BaseDataVariableType
+      DataType: Int32
+      Value: 0

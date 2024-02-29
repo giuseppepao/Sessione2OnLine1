@@ -1,0 +1,19 @@
+Name: RicettaPLC
+Id: g=bfc164a97d3883f9a93371e45756a05c
+Type: FolderType
+Children:
+- Name: ModbusTag1
+  Id: g=3141a0697e54d7bb64abe205f4214312
+  Type: ModbusTag
+  DataType: Int32
+  Value: 0
+- Name: ModbusTag2
+  Id: g=07d0a6deaa85e316089a2717043b876b
+  Type: ModbusTag
+  DataType: Int32
+  Value: 0
+- Name: ModbusTag3
+  Id: g=d8e2d0982323a36a6cd151428e8df5c6
+  Type: ModbusTag
+  DataType: Int32
+  Value: 0

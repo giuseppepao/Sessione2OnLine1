@@ -1,0 +1,173 @@
+Project:
+ Name: Sessione2OnLine1
+ GUID: b70c6a5d8e299c03ab6f7b3830012139
+ ProjectNamespaceIndex: 41
+ Description: ''
+ Company: ''
+ Copyright: ''
+ FormatVersion: 1
+ ProductVersion: 1.3
+ CoreVersion: 3.0
+ Dependencies:
+  2:
+   Uri: 'faee73c18a279e3e0179e9081b260401#Temporary'
+   ServerUri: faee73c18a279e3e0179e9081b260401
+  3:
+   Uri: 'faee73c18a279e3e0179e9081b260401#http://www.unifiedautomation.com/DemoServer/'
+   ServerUri: faee73c18a279e3e0179e9081b260401
+  4:
+   Uri: 'faee73c18a279e3e0179e9081b260401#urn:CN8SSL3:UnifiedAutomation:UaDemoServerAnsiC'
+   ServerUri: faee73c18a279e3e0179e9081b260401
+  5:
+   Uri: 'faee73c18a279e3e0179e9081b260401#urn:CN8SSL3:FactoryTalkOptixHMI:FTOptixApplication'
+   ServerUri: faee73c18a279e3e0179e9081b260401
+  6:
+   Uri: 'faee73c18a279e3e0179e9081b260401#Sessione2OnLine'
+   ServerUri: faee73c18a279e3e0179e9081b260401
+  7:
+   Uri: 'faee73c18a279e3e0179e9081b260401#http://PLCopen.org/OpcUa/IEC61131-3/'
+   ServerUri: faee73c18a279e3e0179e9081b260401
+  8:
+   Uri: 'faee73c18a279e3e0179e9081b260401#http://opcfoundation.org/UA/DI/'
+   ServerUri: faee73c18a279e3e0179e9081b260401
+  9:
+   Uri: 'urn:FTOptix:Core:Net'
+   Module: FTOptix.Core.Net
+   Version: 1.2
+  10:
+   Uri: 'urn:FTOptix:OPCUAServer'
+   Module: FTOptix.OPCUAServer
+   Version: 1.1
+  11:
+   Uri: 'urn:FTOptix:OPCUAServer:Net'
+   Module: FTOptix.OPCUAServer.Net
+   Version: 1.1
+  12:
+   Uri: 'urn:FTOptix:CoreBase'
+   Module: FTOptix.CoreBase
+   Version: 3.1
+  13:
+   Uri: 'urn:FTOptix:CoreBase:Net'
+   Module: FTOptix.CoreBase.Net
+   Version: 1.1
+  14:
+   Uri: 'urn:FTOptix:UI'
+   Module: FTOptix.UI
+   Version: 11.0
+  15:
+   Uri: 'urn:FTOptix:UI:Net'
+   Module: FTOptix.UI.Net
+   Version: 11.0
+  16:
+   Uri: 'urn:FTOptix:DataLogger'
+   Module: FTOptix.DataLogger
+   Version: 1.0
+  17:
+   Uri: 'urn:FTOptix:DataLogger:Net'
+   Module: FTOptix.DataLogger.Net
+   Version: 1.0
+  18:
+   Uri: 'urn:FTOptix:EventLogger'
+   Module: FTOptix.EventLogger
+   Version: 2.0
+  19:
+   Uri: 'urn:FTOptix:EventLogger:Net'
+   Module: FTOptix.EventLogger.Net
+   Version: 1.0
+  20:
+   Uri: 'urn:FTOptix:Store'
+   Module: FTOptix.Store
+   Version: 1.0
+  21:
+   Uri: 'urn:FTOptix:Store:Net'
+   Module: FTOptix.Store.Net
+   Version: 1.0
+  22:
+   Uri: 'urn:FTOptix:Retentivity'
+   Module: FTOptix.Retentivity
+   Version: 1.0
+  23:
+   Uri: 'urn:FTOptix:Retentivity:Net'
+   Module: FTOptix.Retentivity.Net
+   Version: 1.0
+  24:
+   Uri: 'urn:FTOptix:OPCUAClient'
+   Module: FTOptix.OPCUAClient
+   Version: 1.1
+  25:
+   Uri: 'urn:FTOptix:OPCUAClient:Net'
+   Module: FTOptix.OPCUAClient.Net
+   Version: 1.0
+  26:
+   Uri: 'urn:FTOptix:CommunicationDriver'
+   Module: FTOptix.CommunicationDriver
+   Version: 2.0
+  27:
+   Uri: 'urn:FTOptix:CommunicationDriver:Net'
+   Module: FTOptix.CommunicationDriver.Net
+   Version: 2.0
+  28:
+   Uri: 'urn:FTOptix:HMIProject'
+   Module: FTOptix.HMIProject
+   Version: 5.3
+  29:
+   Uri: 'urn:FTOptix:HMIProject:Net'
+   Module: FTOptix.HMIProject.Net
+   Version: 4.4
+  30:
+   Uri: 'urn:FTOptix:Recipe'
+   Module: FTOptix.Recipe
+   Version: 1.0
+  31:
+   Uri: 'urn:FTOptix:Recipe:Net'
+   Module: FTOptix.Recipe.Net
+   Version: 1.0
+  32:
+   Uri: 'urn:FTOptix:ODBCStore'
+   Module: FTOptix.ODBCStore
+   Version: 1.0
+  33:
+   Uri: 'urn:FTOptix:ODBCStore:Net'
+   Module: FTOptix.ODBCStore.Net
+   Version: 1.0
+  34:
+   Uri: 'urn:FTOptix:NativeUI'
+   Module: FTOptix.NativeUI
+   Version: 2.0
+  35:
+   Uri: 'urn:FTOptix:NativeUI:Net'
+   Module: FTOptix.NativeUI.Net
+   Version: 1.0
+  36:
+   Uri: 'urn:FTOptix:SQLiteStore'
+   Module: FTOptix.SQLiteStore
+   Version: 1.0
+  37:
+   Uri: 'urn:FTOptix:SQLiteStore:Net'
+   Module: FTOptix.SQLiteStore.Net
+   Version: 1.0
+  38:
+   Uri: 'urn:FTOptix:NetLogic'
+   Module: FTOptix.NetLogic
+   Version: 1.0
+  39:
+   Uri: 'urn:FTOptix:Modbus'
+   Module: FTOptix.Modbus
+   Version: 1.0
+  40:
+   Uri: 'urn:FTOptix:Modbus:Net'
+   Module: FTOptix.Modbus.Net
+   Version: 1.0
+ Statistics:
+  TotalNodeCount: 2741
+  Objects: 555
+  ObjectTypes: 17
+  Variables: 2136
+  VariableTypes: 0
+  DataTypes: 1
+  Methods: 32
+  References: 121
+  ReferenceTypes: 0
+  Files: 33
+ Nodes:
+ - File: Nodes/Sessione2OnLine1.yaml

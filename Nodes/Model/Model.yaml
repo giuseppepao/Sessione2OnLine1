@@ -1,0 +1,26 @@
+Name: Model
+Id: g=99030d5dd0638302104bf29196b93aa3
+Type: ModelCategoryFolder
+Children:
+- Name: Variable1
+  Id: g=d68ef1bc62b90afcbd158e098f44230f
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: Variable2
+  Id: g=7598777dca1143b9bbb258769e240cf5
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: Variable3
+  Id: g=54b3e757682aba4412de74031a4356cb
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: Variable4
+  Id: g=9823b4c741c1dfff3684cd052883df94
+  Type: BaseDataVariableType
+  DataType: Float
+  Value: 0.0
+- File: RicettaMia/RicettaMia.yaml
+- File: VarCreateDaCodice/VarCreateDaCodice.yaml

@@ -1,0 +1,14 @@
+Name: NetLogic
+Type: NetLogicCategoryFolder
+Children:
+- Name: DesignTimeNetLogic1
+  Type: NetLogic
+  Children:
+  - Name: BehaviourStartPriority
+    Type: BehaviourStartPriorityVariableType
+    DataType: Byte
+    Value: 180
+  - Class: Method
+    Name: CreaVariabili
+- Name: RuntimeNetLogic2
+  Type: NetLogic

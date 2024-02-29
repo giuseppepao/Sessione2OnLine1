@@ -1,0 +1,19 @@
+Name: RicettaMia
+Id: g=c7d23e4f7ad570c2bbd9dc62e3c5d774
+Type: FolderType
+Children:
+- Name: Ingrediente1
+  Id: g=bda555674ef1eab71a08d8276ef9218f
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: Ingrediente2
+  Id: g=4231ad3c3f11780df32ba555cfaca83e
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: IngredienteB3
+  Id: g=0a8ae4ebda3e857e727be6ab79f13fd7
+  Type: BaseDataVariableType
+  DataType: Boolean
+  Value: false

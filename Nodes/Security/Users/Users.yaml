@@ -1,0 +1,40 @@
+Name: Users
+Id: g=8cdfe95c558e909385d4fe7ddc9a2655
+Type: UsersCategoryFolder
+Children:
+- Name: User1
+  Id: g=1a287591939347f8230d15980794e840
+  Type: UserType
+  Children:
+  - Class: Reference
+    Type: HasGroup
+    Target: g=0a57c388f9baf5c156e6cbf37efa9df4
+  - Name: MeasurementSystem
+    Id: g=cb644d9020cf910d6151f23a69927e6d
+    Type: BaseVariableType
+    DataType: MeasurementSystem
+    ReferenceType: HasProperty
+    Value: 0
+- Name: User2
+  Id: g=f430033bccc8461c6b94145a17cdc724
+  Type: UserType
+  Children:
+  - Class: Reference
+    Type: HasGroup
+    Target: g=0a57c388f9baf5c156e6cbf37efa9df4
+  - Class: Reference
+    Type: HasGroup
+    Target: g=e369f778bf3865915d5e81f2157b4370
+- Name: User3
+  Id: g=21c6f2071de89a327e47c04968ac2f94
+  Type: UserType
+  Children:
+  - Class: Reference
+    Type: HasGroup
+    Target: g=0a57c388f9baf5c156e6cbf37efa9df4
+  - Class: Reference
+    Type: HasGroup
+    Target: g=e369f778bf3865915d5e81f2157b4370
+  - Class: Reference
+    Type: HasGroup
+    Target: g=18dcbe1f05fd2fae14222eeecb3553ad
